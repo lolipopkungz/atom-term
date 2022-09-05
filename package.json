@@ -3,11 +3,14 @@
   "main": "./lib/atom-term",
   "version": "0.0.0",
   "description": "A short description of your package",
-  "keywords": [],
+  "keywords": [
+    "test",
+    "god"
+  ],
   "activationCommands": {
     "atom-workspace": "atom-term:toggle"
   },
-  "repository": "https://github.com/atom/atom-term",
+  "repository": "https://github.com/lolipopkungz/atom-term",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
