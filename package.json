@@ -1,7 +1,7 @@
 {
   "name": "atom-term",
   "main": "./lib/atom-term",
-  "version": "0.7.0",
+  "version": "1.0.0",
   "description": "A short description of your package",
   "keywords": [
     "test",
